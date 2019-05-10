@@ -412,6 +412,8 @@ Skjema-feil
 ![Relax](img/uu/wcag21_news.jpg )
 
 
+
+
  
 # WCAG 2.1
  
@@ -537,3 +539,6 @@ Ny seksjon
 * Det er ikke offentliggjort om noe som helst blir eksludert eller ikke.
 * Det er ikke offentliggjort noen start-dato
  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4NDQ1MjQ1NV19
+-->
