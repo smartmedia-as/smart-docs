@@ -222,7 +222,6 @@ element.addEventListener('focus', () => {
 
 ## 3.3 Input-assistanse
  
- 
 ### 3.3.1 Identifikasjon av feil 
 * Hvis en inndata-feil oppdages autmatisk så identifiseres inndata-feltet, og bruker får instruks om hvordan å rette feil. 
 
@@ -245,10 +244,7 @@ element.addEventListener('focus', () => {
 ![Robust](img/uu/robust.png )
 
  
-### 4.1
-## Kompatibel
- 
-
+## 4.1 Kompatibel
  
 ### 4.1.1 Parsing
 * Alle sider skal være uten store kodefeil.
@@ -284,7 +280,7 @@ element.addEventListener('focus', () => {
 
 
 # WAI-ARIA
-## Web Accessibility Initiative - Accessible Rich Internet Applications
+**Web Accessibility Initiative - Accessible Rich Internet Applications**
 
 
 ## Hva er ARIA
@@ -392,7 +388,7 @@ Skjema-feil
 ### 1.3.4 Orientasjon
 * Ting skal kunne brukes, uansett om man bruker landscape eller portrait-modus på telefon/nettbrett. 
 
-### 1.3.5
+### 1.3.5 Autofill
 * Input-elementer skal ha autofill-tags
 
 ```html
@@ -502,6 +498,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzgyMDU0NSwtMTI5MTA0ODUwMywxOT
-g0NDUyNDU1XX0=
+eyJoaXN0b3J5IjpbLTEwMjc3MzExNjYsLTEyOTEwNDg1MDMsMT
+k4NDQ1MjQ1NV19
 -->
