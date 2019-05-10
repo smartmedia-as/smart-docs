@@ -23,3 +23,6 @@ For å kjøre systemet lokalt:
 * `~/project-folder> pip install mkdocs`
 * `~/project-folder> mkdocs serve`
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMzNjM0MDA0MV19
+-->
