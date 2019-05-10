@@ -293,8 +293,6 @@ element.addEventListener('focus', () => {
  
 ## ARIA-eksempel
  
-
- 
 Det er ikke nødvendig å alltid ha `<label>` elementer.
 
 ```html
@@ -493,6 +491,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTY2Nzc4MCwxNDQyMDkwMDEyLC0xMD
+eyJoaXN0b3J5IjpbMTYzMjQ4OTQwOCwxNDQyMDkwMDEyLC0xMD
 I3NzMxMTY2LC0xMjkxMDQ4NTAzLDE5ODQ0NTI0NTVdfQ==
 -->
