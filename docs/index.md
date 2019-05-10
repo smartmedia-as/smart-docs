@@ -23,7 +23,7 @@ For å kjøre systemet lokalt:
 * `~/project-folder> pip install mkdocs`
 * `~/project-folder> mkdocs serve`
 
-Teste
+Tester hva som skjer med StakEdit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQyNjc2NzAsMTMzNjM0MDA0MV19
+eyJoaXN0b3J5IjpbMjAyMTg3Nzk0MiwxMzM2MzQwMDQxXX0=
 -->
