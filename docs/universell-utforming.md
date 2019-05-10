@@ -183,7 +183,7 @@ title: UU i Smart Media
 
 ### 3.1.1 Språk på siden
 * Sidens innhold skal være på et naturlig språk.
-* Språk på nettsider kan bestemmes programmatisk. Dette kan gjøres i `<html>` elementet.
+* Språk på nettsider kan bestemmes programmatisk. Dette kan gjøres i `<html>` elementet. :-)
 
 ```html
 <html lang="nb">
@@ -489,6 +489,8 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzgzNzYyMiwxNDQyMDkwMDEyLC0xMD
-I3NzMxMTY2LC0xMjkxMDQ4NTAzLDE5ODQ0NTI0NTVdfQ==
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcblx0ZW1vamk6XG
+5cdFx0c2hvcnRjdXRzOiB0cnVlXG4iLCJoaXN0b3J5IjpbMTUz
+MDAzODYxOSwxODkzODM3NjIyLDE0NDIwOTAwMTIsLTEwMjc3Mz
+ExNjYsLTEyOTEwNDg1MDMsMTk4NDQ1MjQ1NV19
 -->
