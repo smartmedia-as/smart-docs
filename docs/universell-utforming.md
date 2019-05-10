@@ -13,7 +13,7 @@ title: UU i Smart Media
 
 * Løsninger med betydelig oppdatering etter 1. juli 2014  må oppfylle kravene.
 * Alle løsninger rettet mot norsk almennhet må oppfylle kravene innen 1. Januar 2021.
-* Nye krav fra oppdatert WCAG vil komme i lovverket <span style="text-decoration: line-through;"> ila første halvdel av 2019</span>
+* Nye krav fra oppdatert WCAG vil komme i lovverket ~~ila første halvdel av 2019~~
 
 ## Konsekvens
 
@@ -489,6 +489,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQyMzk1OTYsMTQ0MjA5MDAxMiwtMT
-AyNzczMTE2NiwtMTI5MTA0ODUwMywxOTg0NDUyNDU1XX0=
+eyJoaXN0b3J5IjpbMTg5MzgzNzYyMiwxNDQyMDkwMDEyLC0xMD
+I3NzMxMTY2LC0xMjkxMDQ4NTAzLDE5ODQ0NTI0NTVdfQ==
 -->
