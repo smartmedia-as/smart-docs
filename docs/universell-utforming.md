@@ -304,8 +304,6 @@ Det er ikke nødvendig å alltid ha `<label>` elementer.
 />
 ```
  
-
- 
 ## ARIA-Skjema
  
 Skjema-feil
@@ -491,6 +489,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjQ4OTQwOCwxNDQyMDkwMDEyLC0xMD
-I3NzMxMTY2LC0xMjkxMDQ4NTAzLDE5ODQ0NTI0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NjUyODM4NTIsMTQ0MjA5MDAxMiwtMT
+AyNzczMTE2NiwtMTI5MTA0ODUwMywxOTg0NDUyNDU1XX0=
 -->
