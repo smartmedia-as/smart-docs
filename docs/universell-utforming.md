@@ -382,7 +382,7 @@ Skjema-feil
  
 
  
-### 1.3 Mulig å tilpasse
+## 1.3 Mulig å tilpasse
  
  
 ### 1.3.4 Orientasjon
@@ -414,7 +414,7 @@ Skjema-feil
 
 
  
-## 1.4  Mulig å tilpasse
+## 1.4  Mulig å skille
 
 ### 1.4.10 Reflow (AA)
 * Man skal ikke trenge å scroll'e i 2 retninger, selv om man zoomer inn til 400%
@@ -498,6 +498,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc3MzExNjYsLTEyOTEwNDg1MDMsMT
-k4NDQ1MjQ1NV19
+eyJoaXN0b3J5IjpbMTQ0MjA5MDAxMiwtMTAyNzczMTE2NiwtMT
+I5MTA0ODUwMywxOTg0NDUyNDU1XX0=
 -->
