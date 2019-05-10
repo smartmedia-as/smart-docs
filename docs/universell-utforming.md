@@ -77,10 +77,10 @@ title: UU i Smart Media
 * Video med lyd må ha teksting
 
  
-### 1.3  Mulig å tilpasse
+## 1.3  Mulig å tilpasse
  
 
- 
+
 ### 1.3.1 Informasjon og relasjoner 
 * Kode skal kunne beskrive innholdet slik som det ser ut.
 * Speielt opp mot tabeller, skjema, statusmeldinger og modaler. 
@@ -94,9 +94,7 @@ title: UU i Smart Media
  
 
  
-### 1.4
-## Mulig å skille
- 
+## 1.4 Mulig å skille
 
  
 ### 1.4.1 Bruk av farge 
@@ -123,11 +121,9 @@ title: UU i Smart Media
 
 
  
-### 2.1
-## Tastatur tilgjengelig
+## 2.1 Tastatur tilgjengelig
  
 
- 
 ### 2.1.1 Tastatur 
 * All funksjonalitet skal være tilgjengelig med bruk av utelukkende tastatur.
 
@@ -137,8 +133,7 @@ title: UU i Smart Media
 
 
  
-### 2.2
-## Nok tid
+## 2.2 Nok tid
  
 
  
@@ -539,5 +534,5 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MDMzMzMzLDE5ODQ0NTI0NTVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTEwNDg1MDMsMTk4NDQ1MjQ1NV19
 -->
