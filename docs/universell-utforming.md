@@ -310,12 +310,7 @@ Det er ikke nødvendig å alltid ha `<label>` elementer.
  
 ## ARIA-Skjema
  
-
- 
-
 Skjema-feil
-
-
 ```html
 <form>
 	<label for="client-name">
@@ -498,6 +493,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjA5MDAxMiwtMTAyNzczMTE2NiwtMT
-I5MTA0ODUwMywxOTg0NDUyNDU1XX0=
+eyJoaXN0b3J5IjpbLTg5OTY2Nzc4MCwxNDQyMDkwMDEyLC0xMD
+I3NzMxMTY2LC0xMjkxMDQ4NTAzLDE5ODQ0NTI0NTVdfQ==
 -->
