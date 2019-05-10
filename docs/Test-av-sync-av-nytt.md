@@ -3,7 +3,7 @@
 Mange trøndere ville sagt:
 > Søkki bra, sjø
 
-Tøng itj sei meir.
+Trøng itj sei meir.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk3OTUxOThdfQ==
+eyJoaXN0b3J5IjpbLTU2OTk3MDI4XX0=
 -->
