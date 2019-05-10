@@ -77,8 +77,7 @@ title: UU i Smart Media
 * Video med lyd må ha teksting
 
  
-### 1.3 
-## Mulig å tilpasse
+### 1.3  Mulig å tilpasse
  
 
  
@@ -540,5 +539,5 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDQ1MjQ1NV19
+eyJoaXN0b3J5IjpbODc5MDMzMzMzLDE5ODQ0NTI0NTVdfQ==
 -->
