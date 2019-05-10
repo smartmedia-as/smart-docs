@@ -304,7 +304,7 @@ Det er ikke nødvendig å alltid ha `<label>` elementer.
 />
 ```
  
-## ARIA-Skjema
+## ARIA-skjema
  
 Skjema-feil
 ```html
@@ -489,6 +489,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUyODM4NTIsMTQ0MjA5MDAxMiwtMT
+eyJoaXN0b3J5IjpbLTEyODQyMzk1OTYsMTQ0MjA5MDAxMiwtMT
 AyNzczMTE2NiwtMTI5MTA0ODUwMywxOTg0NDUyNDU1XX0=
 -->
