@@ -134,9 +134,7 @@ title: UU i Smart Media
 
  
 ## 2.2 Nok tid
- 
-
- 
+  
 ### 2.2.1 Justerbar hastighet 
 * Tidsbegrensinger skal kunne justeres av bruker.
 
@@ -145,24 +143,14 @@ title: UU i Smart Media
 * Største utfordring: slidere
  
 
-
-
  
-### 2.3
-## Anfall og fysisk reaksjon
- 
-
+## 2.3 Anfall og fysisk reaksjon
  
 ### 2.3.1 Terskelverdi på glimt
 * Innhold kan ikke blinke mer enn tre ganger i løpet av ett sekund.
  
-
  
-### 2.4
-## Navigere
-1/2
- 
-
+## 2.4 Navigere
  
 ### 2.4.1 Omgå blokker
 * Det må gå ann å omgå blokker som gjentas på flere sider.
@@ -178,16 +166,7 @@ title: UU i Smart Media
 
 ### 2.4.5 Flere måter
 * Det finnes mer enn én måte å finne frem til en nettside.
- 
-
- 
-### 2.4
-## Navigere
-2/2
- 
-
-
- 
+  
 ### 2.4.6 Overskrifter og ledetekster
 * Overskrifter og ledetekster beskriver emne eller formål.
 
@@ -200,11 +179,8 @@ title: UU i Smart Media
 ![Understand](img/uu/understand.jpg )
 
  
-### 3.1
-## Leselig
- 
+## 3.1 Leselig
 
- 
 ### 3.1.1 Språk på siden
 * Sidens innhold skal være på et naturlig språk.
 * Språk på nettsider kan bestemmes programmatisk. Dette kan gjøres i `<html>` elementet.
@@ -221,10 +197,7 @@ title: UU i Smart Media
  
 
  
-### 3.2
-## Forutsigbar
- 
-
+## 3.2 Forutsigbar
  
 ### 3.2.1 Fokus
 * Endring av fokus skal ikke gjøre betydelige endringer på siden, eller flytte fokus på en måte som kan desorientere.
@@ -246,14 +219,9 @@ element.addEventListener('focus', () => {
 * Elementer med samme funksjonalitet skal utformes likt hver gang de brukes.
 
 
- 
 
-
+## 3.3 Input-assistanse
  
-### 3.3
-## Input-assistanse
- 
-
  
 ### 3.3.1 Identifikasjon av feil 
 * Hvis en inndata-feil oppdages autmatisk så identifiseres inndata-feltet, og bruker får instruks om hvordan å rette feil. 
@@ -534,5 +502,6 @@ Ny seksjon
 * Det er ikke offentliggjort noen start-dato
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEwNDg1MDMsMTk4NDQ1MjQ1NV19
+eyJoaXN0b3J5IjpbMTIwNzgyMDU0NSwtMTI5MTA0ODUwMywxOT
+g0NDUyNDU1XX0=
 -->
